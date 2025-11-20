@@ -46,4 +46,4 @@ Simplest way is to use it online, interrogate an image, and the model will be do
 or `onnxruntime-gpu` (allows use of GPU, many people have issues with this, if you try I can't provide support for this)
 
 ## Changelog
-- 2025-11-20 - Change the filtering method of 'exclude_tags' to keyword filtering mode, which will remove all tags containing the keyword.
+- 2025-11-20 - Change the filtering method of 'exclude_tags' to keyword filtering mode, which will remove all tags containing the keyword.(Do not filter character names.)
